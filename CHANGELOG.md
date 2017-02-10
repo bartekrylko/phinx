@@ -397,4 +397,4 @@
 
 **0.1.0** (Friday, 13th January 2012)
 
-* Initial public release.
+* Initial public release
